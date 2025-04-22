@@ -42,7 +42,7 @@ The app uses the **Gemini API** to analyze user input and provide meaningful des
 
 ## 🚀 Deployment
 
-The project is deployed using **Vercel** for fast and easy hosting.
+The project is deployed using **Vercel** for fast and easy hosting and this below is the front view of project:
 
 ![Deployment using Vercel](https://github.com/Daniyal2k23/TripAI-Planner/blob/main/src/view-trip/images%20for%20repository/1.png?raw=true)
 
