@@ -5,10 +5,12 @@ Built by **Daniyal**, this web app uses the power of the **Gemini API** along wi
 
 🚀 **Live Demo:** [tripai-one.vercel.app](https://tripai-one.vercel.app/)
 
+---
+
 ## ✨ Features
 
 - 📍 **Place & Route Suggestions**  
-  Discover popular destinations and optimal travel routes with ease.
+  Used Google map javascript api to discover popular destinations and optimal travel routes with ease.
 
 - 🤖 **AI-Powered Recommendations**  
   Integrated with the **Gemini API** to provide intelligent travel suggestions tailored to your needs.
@@ -19,6 +21,8 @@ Built by **Daniyal**, this web app uses the power of the **Gemini API** along wi
 - 🎨 **Stylish UI with Tailwind CSS**  
   Clean, modern, and mobile-friendly design powered by utility-first CSS.
 
+---
+
 ## 🛠️ Tech Stack
 
 - **Frontend:** HTML, CSS, JavaScript  
@@ -28,9 +32,13 @@ Built by **Daniyal**, this web app uses the power of the **Gemini API** along wi
 - **Map Integration:** Google Map Javascript API 
 - **Deployment:** Vercel
 
+---
+
 ## 🧠 Powered By Gemini API
 
 The app uses the **Gemini API** to analyze user input and provide meaningful destination and route suggestions using artificial intelligence.
+
+---
 
 ## 📬 Feedback & Contributions
 
