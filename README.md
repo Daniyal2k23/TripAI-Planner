@@ -46,4 +46,12 @@ Feedback, ideas, and pull requests are welcome! Feel free to open an issue or co
 
 ---
 
+## 🚀 Deployment
+
+The project is deployed using **Vercel** for fast and easy hosting.
+
+![Deployment using Vercel](https://github.com/Daniyal2k23/TripAI-Planner/blob/main/src/view-trip/images%20for%20repository/1.png?raw=true)
+
+---
+
 Let me know if you'd like to add screenshots, a usage guide, or customize any section!
