@@ -48,6 +48,14 @@ The project is deployed using **Vercel** for fast and easy hosting and this belo
 
 ---
 
+## 🧳 Trip Input
+
+Users can choose their **destination**, set a **budget**, and select the **number of people** traveling.
+
+![Trip Input Form](https://github.com/Daniyal2k23/TripAI-Planner/blob/main/src/view-trip/images%20for%20repository/2.png?raw=true)
+
+---
+
 ## 📬 Feedback & Contributions
 
 Feedback, ideas, and pull requests are welcome! Feel free to open an issue or contribute to improve this project made by Daniyal Akram.
