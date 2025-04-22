@@ -40,17 +40,17 @@ The app uses the **Gemini API** to analyze user input and provide meaningful des
 
 ---
 
-## 📬 Feedback & Contributions
-
-Feedback, ideas, and pull requests are welcome! Feel free to open an issue or contribute to improve this project made by Daniyal Akram.
-
----
-
 ## 🚀 Deployment
 
 The project is deployed using **Vercel** for fast and easy hosting.
 
 ![Deployment using Vercel](https://github.com/Daniyal2k23/TripAI-Planner/blob/main/src/view-trip/images%20for%20repository/1.png?raw=true)
+
+---
+
+## 📬 Feedback & Contributions
+
+Feedback, ideas, and pull requests are welcome! Feel free to open an issue or contribute to improve this project made by Daniyal Akram.
 
 ---
 
