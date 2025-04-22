@@ -56,6 +56,36 @@ Users can choose their **destination**, set a **budget**, and select the **numbe
 
 ---
 
+## 🧭 Demo Walkthrough
+
+### 🏨 Hotel Recommendations
+
+After clicking on **"Generate a Trip"**, users receive hotel suggestions based on the chosen destination and budget.
+
+![Hotel Recommendations](https://github.com/Daniyal2k23/TripAI-Planner/blob/main/src/view-trip/images%20for%20repository/3.png?raw=true)
+
+---
+
+### 📅 Day-wise Travel Plan
+
+Since 3 days were selected, the app suggests places to visit for each day:
+
+**Day 1:**
+![Day 1 Suggestions](https://github.com/Daniyal2k23/TripAI-Planner/blob/main/src/view-trip/images%20for%20repository/4.png?raw=true)
+
+**Day 2:**
+![Day 2 Suggestions](https://github.com/Daniyal2k23/TripAI-Planner/blob/main/src/view-trip/images%20for%20repository/5.png?raw=true)
+
+**Day 3:**
+![Day 3 Suggestions](https://github.com/Daniyal2k23/TripAI-Planner/blob/main/src/view-trip/images%20for%20repository/6.png?raw=true)
+
+---
+
+### 📂 View Your Trips
+
+You can also view all the trips you've created by clicking the **"My Trips"** button at the top-right corner of the app.
+![Viewing Trips](https://github.com/Daniyal2k23/TripAI-Planner/blob/main/src/view-trip/images%20for%20repository/7.png?raw=true)
+
 ## 📬 Feedback & Contributions
 
 Feedback, ideas, and pull requests are welcome! Feel free to open an issue or contribute to improve this project made by Daniyal Akram.
